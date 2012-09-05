@@ -11,7 +11,8 @@ You will require ruby and rubygems.
 Make sure you have sinatra, shotgun and haml installed: `gem install sinatra shotgun haml`.
 
 Run the app:
+
     cd path/to/city-pa-rota-machine
     shotgun -p 4567 app.rb
 
-Now open http://localhost:4567/ and you're away :)
+Now open [http://localhost:4567/](http://localhost:4567/) and you're away :)
